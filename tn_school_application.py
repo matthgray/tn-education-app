@@ -3,11 +3,11 @@
 # needed packages
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import plotly.express as px
-import seaborn as sns
-import numpy as np
-import time
+#import seaborn as sns
+#import numpy as np
+#import time
 # read data
 
 finance_url ='https://raw.githubusercontent.com/matthgray/nss_capstone/omega/data/clean_data/tn_finance_data.csv'
