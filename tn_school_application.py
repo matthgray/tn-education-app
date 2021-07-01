@@ -65,7 +65,7 @@ selected_from_grade= st.sidebar.multiselect('Filter by grade for chart 2',sort_g
 
 sort_school = sorted(tn_data.school_name.unique())
 selected_from_school= st.sidebar.multiselect('Filter by school for charts 3 and 4',sort_school,
-default=['Glendale Elementary','Lockeland Elementary','Campus Elementary'])
+default=['Glendale Elementary','Campus Elementary'])
 #'Oak View Elem School','Rucker Stewart Middle','Whitworth-Buchanan Middle School','Watertown Middle School','Stratton Elementary
 #default=['Granbery Elementary','Trousdale Co Elementary','Westover Elementary','Bethesda Elementary','John Pittard Elementary','Watertown Elementary'])
 #select_df=county_selected[(county_selected)&(tn_data[(tn_data.district_name.isin(selected_from_county)))]
