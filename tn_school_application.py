@@ -34,7 +34,7 @@ tn_data['student_teacher_ratio']=tn_data['student_teacher_ratio'].round(decimals
 st.markdown('''# TN SCHOOLS ANALYSIS FOR 2019''')
 st.markdown("""**DATA SOURCE:** [TN.gov](https://www.tn.gov/education/data/data-downloads.html) """)
 st.markdown("""**DEFINITIONS:**[TN.GOV/DEFINITIONS](https://www.tn.gov/content/dam/tn/education/data/data_definitions.pdf)""")
-#st.markdown("""**TUTORIAL:**[1 MINUTE TUTORIAL](https:) """)
+st.markdown("""**TUTORIAL:**[2 MINUTE TUTORIAL](https://www.youtube.com/watch?v=5hyPyQK0ocQ) """)
 
 #st.dataframe(finance_data)
 #st.dataframe(tn_data)
